@@ -11,7 +11,7 @@
 
 ### `// about`
 
-15+ years architecting highly available, security-hardened platforms across **enterprise, SaaS, and financial** systems. I own technical roadmaps end-to-end — from stakeholder buy-in through architecture governance to production release — and I'm currently focused on embedding **generative AI into the SDLC**: custom context engineering libraries, autonomous agent workflows, and AI-accelerated delivery pipelines.
+15+ years architecting highly available, security-hardened platforms across **enterprise, SaaS, and financial** systems. I own technical roadmaps end-to-end, from stakeholder buy-in through architecture governance to production release, and I'm currently focused on embedding **generative AI into the SDLC**: custom context engineering libraries, autonomous agent workflows, and AI-accelerated delivery pipelines.
 
 Outside the day job, I build independently to stay sharp on the latest stack versions and validate architecture decisions without a corporate mandate.
 
