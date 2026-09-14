@@ -2,7 +2,7 @@
 <p align="center"><i>Senior Software Engineer &middot; Enterprise Systems Architecture &middot; AI-Native SDLC</i></p>
 
 <p align="center">
-  <a href="https://krishnadevhub.lovable.app"><img src="https://img.shields.io/badge/PORTFOLIO-krishnadevhub.github.io-0A0D12?style=flat-square&labelColor=0A0D12&color=5EEAD4" alt="Portfolio"/></a>
+  <a href="https://krishnadevhub.lovable.app"><img src="https://img.shields.io/badge/PORTFOLIO-krishnadevhub.lovable.app-0A0D12?style=flat-square&labelColor=0A0D12&color=5EEAD4" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/krishnavelautham"><img src="https://img.shields.io/badge/LINKEDIN-connect-0A0D12?style=flat-square&labelColor=0A0D12&color=5EEAD4" alt="LinkedIn"/></a>
   <a href="mailto:krishna941@gmail.com"><img src="https://img.shields.io/badge/EMAIL-krishna941%40gmail.com-0A0D12?style=flat-square&labelColor=0A0D12&color=F0B429" alt="Email"/></a>
 </p>
