@@ -19,11 +19,11 @@ Outside the day job, I build independently to stay sharp on the latest stack ver
 
 **Frameworks** &nbsp;`Symfony` `API Platform` `ASP.NET` `Java EE` `React` `Next.js` `Node.js` `Flutter`
 
-**Cloud & DevOps** &nbsp;`AWS Serverless` `Azure DevOps` `Docker` `Jenkins` `Bamboo` `NGINX`
+**Cloud & DevOps** &nbsp; `Azure DevOps` `JIRA` `Docker` `Jenkins` `Bamboo` `NGINX`
 
 **Data & Integration** &nbsp;`MySQL` `MS SQL Server` `MongoDB` `Redis` `REST` `GraphQL` `SAML SSO` `Stripe`
 
-**AI Engineering** &nbsp;`Devin` `GitHub Copilot` `Claude` `Codex`
+**AI Engineering** &nbsp;`Devin` `GitHub Copilot` `Claude` `Codex` `Automated Code Remediation` `Prompt Engineering`
 
 ---
 
